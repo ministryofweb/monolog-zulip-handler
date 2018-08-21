@@ -1,6 +1,6 @@
 {
   "name": "ministryofweb/monolog-zulip-handler",
-  "description": "handler class for the Monolog logging library which allows it to send log messages to a Zulip instance",
+  "description": "Handler class for the Monolog logging library which allows it to send log messages to a Zulip instance",
   "type": "library",
   "keywords": [
     "log",
